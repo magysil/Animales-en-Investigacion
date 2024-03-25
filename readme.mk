@@ -24,3 +24,7 @@ Este proyecto consta de archivos HTML, CSS y JavaScript para crear una aplicaci�
 - Los animales registrados se mostrarán en la sección correspondiente de la página.
 - Haz clic en la imagen de un animal para ver más detalles en un modal.
 
+## Enlace del Proyecto
+
+El proyecto está disponible en el siguiente enlace: [Animales en Investigación](https://magysil.github.io/Animales-en-Investigacion/)
+
