@@ -119,11 +119,11 @@ btnRegistrar.addEventListener("click", () => {
         <img src="./assets/imgs/${imagen_Animal}" class="card-img-top" alt="${name_Animal}">
           <div class="card-body card-investigation">
             <div class="player">
-              <audio id="player" class="audio-player" src="/assets/sounds/${sonido_Animal}"></audio>
+              <audio id="player" class="audio-player" src="./assets/sounds/${sonido_Animal}"></audio>
             </div>
               <div>
                 <button id="toggleButton" class="toggleButton">
-                    <img src="/assets/imgs/audio.svg" alt="Reproducir" class="imgButton" />
+                    <img src="./assets/imgs/audio.svg" alt="Reproducir" class="imgButton" />
                 </button>
               </div>
           </div>
